@@ -1,7 +1,6 @@
 import React, { useLayoutEffect, useRef } from "react";
 import "./subhero.css";
 import gsap from "gsap";
-import ScrollTrigger from "gsap/ScrollTrigger";
 import small from "../../img/good-faces-2eC_-0yRrGU-unsplash.jpg";
 import big from "../../img/mark-adriane-bO3S03I2Aw8-unsplash.jpg";
 
